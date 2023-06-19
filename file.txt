@@ -1,0 +1,2 @@
+Hi this is the first test in GIT
+Hi this is second line
